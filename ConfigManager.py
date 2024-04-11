@@ -39,7 +39,7 @@ class ConfigManager():
     def __check_dir_exists(self):
         print(f"Checking dir -  {self._filepath}")
         if not os.path.exists(self._filepath):
-            print("mkdir XEMU")
+            print("mkdir Config")
             os.mkdir(self._filepath)
 
     def __new__(cls):
