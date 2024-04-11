@@ -3,6 +3,9 @@ Basic Config Manager Class for python
 
 Author - Joshua Barrass
 
+Contact - Joshuabarrass010203@gmail.com
+Github - @JoshuaBarrass
+
 For Basic Use - 
 
 1. Change the file path if different one is required
